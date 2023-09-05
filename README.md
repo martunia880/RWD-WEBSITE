@@ -10,7 +10,7 @@ The Responsive Website is built using the following technologies:
 
 ## Presentation 
 
-[![Click to see this website on YouTube]](https://youtu.be/Iyit7uCJxZ4)
+[[Click to see this website on YouTube]](https://youtu.be/Iyit7uCJxZ4)
 
 
 ### Authors
